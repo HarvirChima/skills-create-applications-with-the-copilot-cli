@@ -1,17 +1,24 @@
-# 🧪 Copilot CLI Lab: Build a Calculator
+# 🧪 Copilot Hands-On Labs
 
-A hands-on, self-paced lab to learn the GitHub Copilot CLI.
+Two self-paced labs to get hands-on experience with GitHub Copilot.
+
+## Labs
+
+| Lab | Description |
+|-----|-------------|
+| [Custom Agents Lab](CUSTOM-AGENTS-LAB.md) | Build five custom agents to supercharge your development workflow |
+| [Copilot CLI Lab](COPILOT-CLI-LAB.md) | Get familiar with the Copilot CLI by building a Node.js calculator app from your terminal |
 
 ## Getting Started
 
 1. Clone this repository
-2. Open `LAB.md` and follow the steps
+2. Pick a lab above and follow the instructions
 3. Everything runs locally in your terminal — no GitHub Issues or PRs needed!
 
 ## Prerequisites
 
 - Node.js 22+ / npm 10+
-- GitHub Copilot subscription
+- An active GitHub Copilot subscription (Pro, Pro+, Business, or Enterprise)
 - `npm install -g @github/copilot`
 
 ---
