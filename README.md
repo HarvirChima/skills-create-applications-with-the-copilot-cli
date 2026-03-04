@@ -1,16 +1,20 @@
-# Create applications with the Copilot CLI
+# 🧪 Copilot CLI Lab: Build a Calculator
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+A hands-on, self-paced lab to learn the GitHub Copilot CLI.
 
-Hey HarvirChima!
+## Getting Started
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+1. Clone this repository
+2. Open `LAB.md` and follow the steps
+3. Everything runs locally in your terminal — no GitHub Issues or PRs needed!
 
-Remember, it's self-paced so feel free to take a break! ☕️
+## Prerequisites
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/HarvirChima/skills-create-applications-with-the-copilot-cli/issues/1)
+- Node.js 22+ / npm 10+
+- GitHub Copilot subscription
+- `npm install -g @github/copilot`
 
 ---
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+&copy; 2025 GitHub &bull; [MIT License](https://gh.io/mit)
 
