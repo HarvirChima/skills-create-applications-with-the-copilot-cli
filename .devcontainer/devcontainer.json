@@ -1,12 +1,6 @@
 {
-  "name": "Copilot CLI Calculator Exercise",
+  "name": "Copilot CLI Calculator Lab",
   "image": "mcr.microsoft.com/devcontainers/javascript-node:1-22-bookworm",
-  "features": {
-    "ghcr.io/devcontainers/features/github-cli:1": {
-      "installDirectlyFromGitHubRelease": true,
-      "version": "latest"
-    }
-  },
   "customizations": {
     "vscode": {
       "extensions": [
@@ -41,18 +35,15 @@
         "workbench.layoutControl.enabled": false,
         "workbench.layoutControl.type": "hidden",
         "workbench.panel.opensMaximized": "always",
-        "workbench.startupEditor": "none",
         "workbench.tips.enabled": false,
         "window.openFilesInNewWindow": "off",
         "terminal.integrated.automationProfile.linux": null,
         "workbench.action.terminal.focus": true,
-        "terminal.integrated.showOnStartup": "always",
-        "workbench.panel.opensMaximized": "always"
+        "terminal.integrated.showOnStartup": "always"
       }
     }
   },
-  "postCreateCommand": "echo '🚀 Welcome to the Copilot CLI Skills Exercise!' && echo '' && echo '📝 To install the standalone GitHub Copilot CLI:' && echo '   Run: npm install -g @github/copilot' && echo '' && echo '📝 Then start Copilot CLI by running:' && echo '   copilot' && echo '' && echo '📖 Open README.md to get started with the exercise!' && echo '' && npm install",
-  "onCreateCommand": "chmod +x .devcontainer/setup.sh 2>/dev/null || true",
+  "postCreateCommand": "echo '🚀 Welcome to the Copilot CLI Lab!' && echo '' && echo '📝 To install the standalone GitHub Copilot CLI:' && echo '   Run: npm install -g @github/copilot' && echo '' && echo '📝 Then start Copilot CLI by running:' && echo '   copilot' && echo '' && echo '📖 Open LAB.md to get started!'",
   "portsAttributes": {
     "3000": {
       "label": "Application",
