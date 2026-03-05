@@ -11,9 +11,7 @@ Two self-paced labs to get hands-on experience with GitHub Copilot.
 
 ## Getting Started
 
-1. Clone this repository
-2. Pick a lab above and follow the instructions
-3. Everything runs locally in your terminal — no GitHub Issues or PRs needed!
+Pick a lab above and follow the instructions
 
 ## Prerequisites
 
